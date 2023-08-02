@@ -1,3 +1,3 @@
 // JavaScript source code
 console.log('index.js');
-console.log('version4);
+console.log('version5;
